@@ -1,0 +1,21 @@
+Using FS1.5(lexical Vocabulary), with No Feature selection and Predicting using gaussianNB
+------------------------------
+precision =0.563030398323
+recall =0.231015446584
+accuracy =0.525004686133
+F-measure =0.326786957259
+------------------------------------------------------------
+Using FS1.5(lexical Vocabulary), with No Feature selection and Predicting using Logistic Regression
+------------------------------
+precision =0.5
+recall =1.0
+accuracy =0.499999925
+F-measure =0.666666444666
+------------------------------------------------------------
+Using FS1.5(lexical Vocabulary), with No Feature selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.548204703285
+recall =0.47398596201
+accuracy =0.54198868408
+F-measure =0.507862173996
+------------------------------------------------------------

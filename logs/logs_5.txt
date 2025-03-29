@@ -1,0 +1,245 @@
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with No Feature selection and Predicting using gaussianNB
+------------------------------
+precision =0.528852613475
+recall =0.651780523038
+accuracy =0.533989681779
+F-measure =0.540693383249
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with No Feature selection and Predicting using Logistic Regression
+------------------------------
+precision =0.677318095168
+recall =0.669957382532
+accuracy =0.675497735343
+F-measure =0.673311977607
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with No Feature selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.644868117868
+recall =0.644977312642
+accuracy =0.644487719481
+F-measure =0.644747604979
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with No Feature selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.668055948136
+recall =0.652973332614
+accuracy =0.663487225885
+F-measure =0.659951830884
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with No Feature selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.349173318623
+recall =0.634634634635
+accuracy =0.526026697494
+F-measure =0.449513227513
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with InformationGain Selection and Predicting using gaussianNB
+------------------------------
+precision =0.636564240536
+recall =0.835880790971
+accuracy =0.646536244453
+F-measure =0.701230604323
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with InformationGain Selection and Predicting using Logistic Regression
+------------------------------
+precision =0.689140447902
+recall =0.69396941852
+accuracy =0.690491737594
+F-measure =0.691463515088
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with InformationGain Selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.662128961971
+recall =0.661946377515
+accuracy =0.662477970906
+F-measure =0.662001487849
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with InformationGain Selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.690037802942
+recall =0.692968417519
+accuracy =0.690992988395
+F-measure =0.691437947374
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with InformationGain Selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.562805282394
+recall =0.911072749396
+accuracy =0.596998708349
+F-measure =0.693781248416
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with GainRatio Selection and Predicting using gaussianNB
+------------------------------
+precision =0.636564240536
+recall =0.835880790971
+accuracy =0.646536244453
+F-measure =0.701230604323
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with GainRatio Selection and Predicting using Logistic Regression
+------------------------------
+precision =0.689140447902
+recall =0.69396941852
+accuracy =0.690491737594
+F-measure =0.691463515088
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with GainRatio Selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.646186952582
+recall =0.675969382556
+accuracy =0.652990974084
+F-measure =0.660729827685
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with GainRatio Selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.690037802942
+recall =0.692968417519
+accuracy =0.690992988395
+F-measure =0.691437947374
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with GainRatio Selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.562805282394
+recall =0.911072749396
+accuracy =0.596998708349
+F-measure =0.693781248416
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with ChiSquare Selection and Predicting using gaussianNB
+------------------------------
+precision =0.585548410629
+recall =0.910970851091
+accuracy =0.630522481968
+F-measure =0.712048416315
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with ChiSquare Selection and Predicting using Logistic Regression
+------------------------------
+precision =0.691658628649
+recall =0.686956417495
+accuracy =0.690493238345
+F-measure =0.68905113311
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with ChiSquare Selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.636685184877
+recall =0.650974327621
+accuracy =0.638988217804
+F-measure =0.643366106403
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with ChiSquare Selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.679143517368
+recall =0.678987370604
+accuracy =0.678992984192
+F-measure =0.679015872162
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with ChiSquare Selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.564887620422
+recall =0.902066737396
+accuracy =0.598497958499
+F-measure =0.692587948693
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with Pointwise Mutual information and Predicting using gaussianNB
+------------------------------
+precision =0.576101485423
+recall =0.942978907051
+accuracy =0.621523229191
+F-measure =0.714297916675
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with Pointwise Mutual information and Predicting using Logistic Regression
+------------------------------
+precision =0.604218071186
+recall =0.907982833133
+accuracy =0.656494477062
+F-measure =0.725516610825
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with Pointwise Mutual information and Predicting using RandomForestClassifier
+------------------------------
+precision =0.603748100593
+recall =0.899980819142
+accuracy =0.654496227237
+F-measure =0.722561711658
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with Pointwise Mutual information and Predicting using SVC with linear kernel
+------------------------------
+precision =0.583313099289
+recall =0.90698782615
+accuracy =0.62949371723
+F-measure =0.709983589708
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with Pointwise Mutual information and Predicting using SVC with radial kernel
+------------------------------
+precision =0.342789503751
+recall =0.651651651652
+accuracy =0.517017689837
+F-measure =0.448980728051
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with Categorial Proportional Difference and Predicting using gaussianNB
+------------------------------
+precision =0.576101485423
+recall =0.942978907051
+accuracy =0.621523229191
+F-measure =0.714297916675
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with Categorial Proportional Difference and Predicting using Logistic Regression
+------------------------------
+precision =0.604218071186
+recall =0.907982833133
+accuracy =0.656494477062
+F-measure =0.725516610825
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with Categorial Proportional Difference and Predicting using RandomForestClassifier
+------------------------------
+precision =0.602644678764
+recall =0.892982803162
+accuracy =0.651992974735
+F-measure =0.719576568729
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with Categorial Proportional Difference and Predicting using SVC with linear kernel
+------------------------------
+precision =0.583313099289
+recall =0.90698782615
+accuracy =0.62949371723
+F-measure =0.709983589708
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with Categorial Proportional Difference and Predicting using SVC with radial kernel
+------------------------------
+precision =0.342789503751
+recall =0.651651651652
+accuracy =0.517017689837
+F-measure =0.448980728051
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with KL Divergence and Predicting using gaussianNB
+------------------------------
+precision =0.536747802569
+recall =0.949994905085
+accuracy =0.56499819689
+F-measure =0.68591882741
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with KL Divergence and Predicting using Logistic Regression
+------------------------------
+precision =0.694776065876
+recall =0.687954421487
+accuracy =0.692993489345
+F-measure =0.691051900156
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with KL Divergence and Predicting using RandomForestClassifier
+------------------------------
+precision =0.654302524152
+recall =0.676988365611
+accuracy =0.659494478112
+F-measure =0.665370366209
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with KL Divergence and Predicting using SVC with linear kernel
+------------------------------
+precision =0.680315330167
+recall =0.684987382592
+accuracy =0.681495486318
+F-measure =0.682634802002
+------------------------------------------------------------
+Using FS3(SWN) + FS4(Aspect Extraction), with KL Divergence and Predicting using SVC with radial kernel
+------------------------------
+precision =0.563501500021
+recall =0.903067738397
+accuracy =0.596998708349
+F-measure =0.691936924977

@@ -1,0 +1,34 @@
+Using FS1(lexical), with No Feature selection and Predicting using gaussianNB
+------------------------------
+precision =0.546291497069
+recall =0.725956495418
+accuracy =0.56001195202
+F-measure =0.622563486757
+------------------------------------------------------------
+Using FS1(lexical), with No Feature selection and Predicting using Logistic Regression
+------------------------------
+precision =0.60635716194
+recall =0.665956375537
+accuracy =0.616488209924
+F-measure =0.634247595517
+------------------------------------------------------------
+Using FS1(lexical), with No Feature selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.611009982153
+recall =0.497029964096
+accuracy =0.590508711077
+F-measure =0.547935575464
+------------------------------------------------------------
+Using FS1(lexical), with No Feature selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.601337405889
+recall =0.698980417543
+accuracy =0.617492962651
+F-measure =0.646230919618
+------------------------------------------------------------
+Using FS1(lexical), with No Feature selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.574703835463
+recall =0.747004489519
+accuracy =0.596994206097
+F-measure =0.649593249888

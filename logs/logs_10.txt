@@ -1,0 +1,490 @@
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with No Feature selection and Predicting using gaussianNB
+------------------------------
+precision =0.914925870398
+recall =0.782992573412
+accuracy =0.854999549089
+F-measure =0.8437260359
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with No Feature selection and Predicting using gaussianNB
+------------------------------
+precision =0.82551022989
+recall =0.655014295733
+accuracy =0.758488509784
+F-measure =0.730317157555
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with No Feature selection and Predicting using Logistic Regression
+------------------------------
+precision =0.878277364185
+recall =0.887986789184
+accuracy =0.882501559721
+F-measure =0.88308425614
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with No Feature selection and Predicting using Logistic Regression
+------------------------------
+precision =0.716986349814
+recall =0.701989414564
+accuracy =0.712002750629
+F-measure =0.709042751672
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with No Feature selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.656374012425
+recall =0.614039188889
+accuracy =0.646509981316
+F-measure =0.63410734
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with No Feature selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.682911303256
+recall =0.669984355613
+accuracy =0.679501738746
+F-measure =0.675966549914
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with No Feature selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.799194047615
+recall =0.766005526485
+accuracy =0.786493271969
+F-measure =0.78211257527
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with No Feature selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.740480834194
+recall =0.724002445559
+accuracy =0.735001758185
+F-measure =0.732066630925
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with No Feature selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.787484644844
+recall =0.375267483052
+accuracy =0.523991679277
+F-measure =0.300419893328
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with No Feature selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.35446710607
+recall =0.632632632633
+accuracy =0.533534203874
+F-measure =0.452977211278
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with InformationGain Selection and Predicting using gaussianNB
+------------------------------
+precision =0.937491805835
+recall =0.622038205871
+accuracy =0.790004278699
+F-measure =0.747204145722
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with InformationGain Selection and Predicting using gaussianNB
+------------------------------
+precision =0.921786897831
+recall =0.665057272842
+accuracy =0.803507284929
+F-measure =0.770952071537
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with InformationGain Selection and Predicting using Logistic Regression
+------------------------------
+precision =0.850567347021
+recall =0.857974741208
+accuracy =0.853501049314
+F-measure =0.854073404341
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with InformationGain Selection and Predicting using Logistic Regression
+------------------------------
+precision =0.775684382742
+recall =0.761995528463
+accuracy =0.770496017741
+F-measure =0.768567865743
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with InformationGain Selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.738768717603
+recall =0.663004321687
+accuracy =0.713489244399
+F-measure =0.698497883744
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with InformationGain Selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.720772519534
+recall =0.676988365611
+accuracy =0.707509502431
+F-measure =0.697878982378
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with InformationGain Selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.796153458944
+recall =0.825963688239
+accuracy =0.807004034529
+F-measure =0.810474250142
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with InformationGain Selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.811403258028
+recall =0.816975658293
+accuracy =0.813493281425
+F-measure =0.814058240132
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with InformationGain Selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.744359248825
+recall =0.922970875067
+accuracy =0.8024995307
+F-measure =0.823738269848
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with InformationGain Selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.67520185931
+recall =0.793991596387
+accuracy =0.70600725078
+F-measure =0.729716452397
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with GainRatio Selection and Predicting using gaussianNB
+------------------------------
+precision =0.657510597186
+recall =0.697787607967
+accuracy =0.624491714477
+F-measure =0.615119846827
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with GainRatio Selection and Predicting using gaussianNB
+------------------------------
+precision =0.636020489169
+recall =0.686782590974
+accuracy =0.611988208348
+F-measure =0.600843306153
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with GainRatio Selection and Predicting using Logistic Regression
+------------------------------
+precision =0.575959104468
+recall =0.883994773216
+accuracy =0.616506218932
+F-measure =0.69746295801
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with GainRatio Selection and Predicting using Logistic Regression
+------------------------------
+precision =0.503030431738
+recall =0.658011304718
+accuracy =0.504005429153
+F-measure =0.570168899946
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with GainRatio Selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.560436744925
+recall =0.867999736263
+accuracy =0.593505710626
+F-measure =0.681081949124
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with GainRatio Selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.559844497883
+recall =0.852001702301
+accuracy =0.591006210001
+F-measure =0.675684291108
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with GainRatio Selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.554384838461
+recall =0.881995768223
+accuracy =0.586501706172
+F-measure =0.68081950059
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with GainRatio Selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.563975431847
+recall =0.886005766245
+accuracy =0.600500710575
+F-measure =0.689227647357
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with GainRatio Selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.567616418387
+recall =1.0
+accuracy =0.619005719557
+F-measure =0.724153879581
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with GainRatio Selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.477527902715
+recall =0.347347347347
+accuracy =0.50600668048
+F-measure =0.248819923372
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with ChiSquare Selection and Predicting using gaussianNB
+------------------------------
+precision =0.778205448798
+recall =0.925014835194
+accuracy =0.828984032225
+F-measure =0.844498641297
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with ChiSquare Selection and Predicting using gaussianNB
+------------------------------
+precision =0.786801049457
+recall =0.917018815222
+accuracy =0.831980281399
+F-measure =0.845902218991
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with ChiSquare Selection and Predicting using Logistic Regression
+------------------------------
+precision =0.856644736895
+recall =0.851968735202
+accuracy =0.854502050165
+F-measure =0.854043139523
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with ChiSquare Selection and Predicting using Logistic Regression
+------------------------------
+precision =0.766065837812
+recall =0.768987550425
+accuracy =0.766994765889
+F-measure =0.767463372565
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with ChiSquare Selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.719598750407
+recall =0.648001294708
+accuracy =0.69750174505
+F-measure =0.68151669869
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with ChiSquare Selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.706122670451
+recall =0.647024269779
+accuracy =0.688503993024
+F-measure =0.674749265072
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with ChiSquare Selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.798405121807
+recall =0.800968633304
+accuracy =0.799002030726
+F-measure =0.799295343101
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with ChiSquare Selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.808542732351
+recall =0.817970665276
+accuracy =0.811998533527
+F-measure =0.812976461316
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with ChiSquare Selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.721943261879
+recall =0.928970887055
+accuracy =0.784504026648
+F-measure =0.811836180853
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with ChiSquare Selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.676011879543
+recall =0.794983606361
+accuracy =0.707005250129
+F-measure =0.730609749229
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with Pointwise Mutual information and Predicting using gaussianNB
+------------------------------
+precision =0.674773941729
+recall =1.0
+accuracy =0.758998014714
+F-measure =0.805804901886
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with Pointwise Mutual information and Predicting using gaussianNB
+------------------------------
+precision =0.723119569947
+recall =1.0
+accuracy =0.808500283177
+F-measure =0.839297078478
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with Pointwise Mutual information and Predicting using Logistic Regression
+------------------------------
+precision =0.664066199472
+recall =1.0
+accuracy =0.74699500901
+F-measure =0.798108008729
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with Pointwise Mutual information and Predicting using Logistic Regression
+------------------------------
+precision =0.665367906634
+recall =1.0
+accuracy =0.748498761412
+F-measure =0.799056096462
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with Pointwise Mutual information and Predicting using RandomForestClassifier
+------------------------------
+precision =0.654482886905
+recall =1.0
+accuracy =0.735997506408
+F-measure =0.791154237984
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with Pointwise Mutual information and Predicting using RandomForestClassifier
+------------------------------
+precision =0.633313131459
+recall =1.0
+accuracy =0.710499748603
+F-measure =0.775494310132
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with Pointwise Mutual information and Predicting using SVC with linear kernel
+------------------------------
+precision =0.630178453198
+recall =1.0
+accuracy =0.706494244449
+F-measure =0.773122040358
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with Pointwise Mutual information and Predicting using SVC with linear kernel
+------------------------------
+precision =0.641454101094
+recall =1.0
+accuracy =0.720500752605
+F-measure =0.781564295324
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with Pointwise Mutual information and Predicting using SVC with radial kernel
+------------------------------
+precision =0.655263234239
+recall =0.995998993005
+accuracy =0.735999757534
+F-measure =0.790475398621
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with Pointwise Mutual information and Predicting using SVC with radial kernel
+------------------------------
+precision =0.334598609786
+recall =0.666666666667
+accuracy =0.502503177502
+F-measure =0.445564954683
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with Categorial Proportional Difference and Predicting using gaussianNB
+------------------------------
+precision =0.674773941729
+recall =1.0
+accuracy =0.758998014714
+F-measure =0.805804901886
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with Categorial Proportional Difference and Predicting using gaussianNB
+------------------------------
+precision =0.723119569947
+recall =1.0
+accuracy =0.808500283177
+F-measure =0.839297078478
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with Categorial Proportional Difference and Predicting using Logistic Regression
+------------------------------
+precision =0.664066199472
+recall =1.0
+accuracy =0.74699500901
+F-measure =0.798108008729
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with Categorial Proportional Difference and Predicting using Logistic Regression
+------------------------------
+precision =0.665367906634
+recall =1.0
+accuracy =0.748498761412
+F-measure =0.799056096462
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with Categorial Proportional Difference and Predicting using RandomForestClassifier
+------------------------------
+precision =0.657075720103
+recall =1.0
+accuracy =0.738995256333
+F-measure =0.793039828027
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with Categorial Proportional Difference and Predicting using RandomForestClassifier
+------------------------------
+precision =0.636543886909
+recall =1.0
+accuracy =0.714498499378
+F-measure =0.777910563135
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with Categorial Proportional Difference and Predicting using SVC with linear kernel
+------------------------------
+precision =0.630178453198
+recall =1.0
+accuracy =0.706494244449
+F-measure =0.773122040358
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with Categorial Proportional Difference and Predicting using SVC with linear kernel
+------------------------------
+precision =0.641454101094
+recall =1.0
+accuracy =0.720500752605
+F-measure =0.781564295324
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with Categorial Proportional Difference and Predicting using SVC with radial kernel
+------------------------------
+precision =0.655263234239
+recall =0.995998993005
+accuracy =0.735999757534
+F-measure =0.790475398621
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with Categorial Proportional Difference and Predicting using SVC with radial kernel
+------------------------------
+precision =0.334598609786
+recall =0.666666666667
+accuracy =0.502503177502
+F-measure =0.445564954683
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with KL Divergence and Predicting using gaussianNB
+------------------------------
+precision =0.707943665123
+recall =0.96601391811
+accuracy =0.783489519041
+F-measure =0.817008087486
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with KL Divergence and Predicting using gaussianNB
+------------------------------
+precision =0.722740303084
+recall =0.958008907111
+accuracy =0.794990523569
+F-measure =0.823828138007
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with KL Divergence and Predicting using Logistic Regression
+------------------------------
+precision =0.843761978097
+recall =0.849963736191
+accuracy =0.845505048514
+F-measure =0.846177016316
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with KL Divergence and Predicting using Logistic Regression
+------------------------------
+precision =0.771448243686
+recall =0.767983552415
+accuracy =0.769993266189
+F-measure =0.769539022033
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with KL Divergence and Predicting using RandomForestClassifier
+------------------------------
+precision =0.703820561949
+recall =0.66199133265
+accuracy =0.691495739946
+F-measure =0.682163821015
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with KL Divergence and Predicting using RandomForestClassifier
+------------------------------
+precision =0.727780579501
+recall =0.666013318708
+accuracy =0.708510503282
+F-measure =0.695253528265
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with KL Divergence and Predicting using SVC with linear kernel
+------------------------------
+precision =0.797663704293
+recall =0.817967668267
+accuracy =0.804506785029
+F-measure =0.807152747265
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with KL Divergence and Predicting using SVC with linear kernel
+------------------------------
+precision =0.812360368735
+recall =0.82097067127
+accuracy =0.815494532751
+F-measure =0.816367977192
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=0, with KL Divergence and Predicting using SVC with radial kernel
+------------------------------
+precision =0.721423160781
+recall =0.946991902082
+accuracy =0.790501027248
+F-measure =0.818847633802
+------------------------------------------------------------
+Using FS3(tfidf) with tf=b, idf=sp bin=1, with KL Divergence and Predicting using SVC with radial kernel
+------------------------------
+precision =0.674902614731
+recall =0.794992597388
+accuracy =0.70600725078
+F-measure =0.729979872477
+------------------------------------------------------------

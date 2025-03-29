@@ -1,0 +1,247 @@
+
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with No Feature selection and Predicting using gaussianNB
+------------------------------
+precision =0.605303030303
+recall =0.738921556287
+accuracy =0.620016475287
+F-measure =0.659179339328
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with No Feature selection and Predicting using Logistic Regression
+------------------------------
+precision =0.756165432672
+recall =0.747972523422
+accuracy =0.752501264064
+F-measure =0.751318062937
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with No Feature selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.648264774715
+recall =0.513984043924
+accuracy =0.617501967155
+F-measure =0.573274693463
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with No Feature selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.729894023658
+recall =0.716974459489
+accuracy =0.72549600198
+F-measure =0.723064308258
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with No Feature selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.574977695408
+recall =0.828019636403
+accuracy =0.608004465079
+F-measure =0.678676011276
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with InformationGain Selection and Predicting using gaussianNB
+------------------------------
+precision =0.72384303427
+recall =0.872986759214
+accuracy =0.769495767265
+F-measure =0.791044825987
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with InformationGain Selection and Predicting using Logistic Regression
+------------------------------
+precision =0.800732457864
+recall =0.808979638321
+accuracy =0.803498280425
+F-measure =0.80456911427
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with InformationGain Selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.723568537885
+recall =0.630996265727
+accuracy =0.695005245926
+F-measure =0.674048847118
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with InformationGain Selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.784357126991
+recall =0.806980633328
+accuracy =0.792498526697
+F-measure =0.795404881922
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with InformationGain Selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.663394048302
+recall =0.781011550473
+accuracy =0.692005244875
+F-measure =0.717317224304
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with GainRatio Selection and Predicting using gaussianNB
+------------------------------
+precision =0.72384303427
+recall =0.872986759214
+accuracy =0.769495767265
+F-measure =0.791044825987
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with GainRatio Selection and Predicting using Logistic Regression
+------------------------------
+precision =0.800732457864
+recall =0.808979638321
+accuracy =0.803498280425
+F-measure =0.80456911427
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with GainRatio Selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.737030737101
+recall =0.620018221815
+accuracy =0.698501995526
+F-measure =0.672916070051
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with GainRatio Selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.784357126991
+recall =0.806980633328
+accuracy =0.792498526697
+F-measure =0.795404881922
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with GainRatio Selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.663394048302
+recall =0.781011550473
+accuracy =0.692005244875
+F-measure =0.717317224304
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with ChiSquare Selection and Predicting using gaussianNB
+------------------------------
+precision =0.714659974291
+recall =0.872980765196
+accuracy =0.761996515014
+F-measure =0.785633404252
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with ChiSquare Selection and Predicting using Logistic Regression
+------------------------------
+precision =0.798762074958
+recall =0.814982647318
+accuracy =0.804500031651
+F-measure =0.806562621627
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with ChiSquare Selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.742175867568
+recall =0.632989276702
+accuracy =0.706503248953
+F-measure =0.683195225905
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with ChiSquare Selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.789044415281
+recall =0.808964653276
+accuracy =0.7960012793
+F-measure =0.798459436107
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with ChiSquare Selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.666955180171
+recall =0.778011544479
+accuracy =0.69450324475
+F-measure =0.718134259509
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with Pointwise Mutual information and Predicting using gaussianNB
+------------------------------
+precision =0.607601329063
+recall =0.972987958018
+accuracy =0.669521745252
+F-measure =0.747334288739
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with Pointwise Mutual information and Predicting using Logistic Regression
+------------------------------
+precision =0.622664907509
+recall =0.957990925057
+accuracy =0.688002742223
+F-measure =0.754556342769
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with Pointwise Mutual information and Predicting using RandomForestClassifier
+------------------------------
+precision =0.629135327921
+recall =0.947992903083
+accuracy =0.694002744325
+F-measure =0.7561621006
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with Pointwise Mutual information and Predicting using SVC with linear kernel
+------------------------------
+precision =0.609689824438
+recall =0.950986915059
+accuracy =0.670502485969
+F-measure =0.742838848331
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with Pointwise Mutual information and Predicting using SVC with radial kernel
+------------------------------
+precision =0.346241353008
+recall =0.661661661662
+accuracy =0.523524195367
+F-measure =0.454376904003
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with Categorial Proportional Difference and Predicting using gaussianNB
+------------------------------
+precision =0.607601329063
+recall =0.972987958018
+accuracy =0.669521745252
+F-measure =0.747334288739
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with Categorial Proportional Difference and Predicting using Logistic Regression
+------------------------------
+precision =0.622664907509
+recall =0.957990925057
+accuracy =0.688002742223
+F-measure =0.754556342769
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with Categorial Proportional Difference and Predicting using RandomForestClassifier
+------------------------------
+precision =0.627636969004
+recall =0.951996907087
+accuracy =0.693003244225
+F-measure =0.756350213055
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with Categorial Proportional Difference and Predicting using SVC with linear kernel
+------------------------------
+precision =0.609689824438
+recall =0.950986915059
+accuracy =0.670502485969
+F-measure =0.742838848331
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with Categorial Proportional Difference and Predicting using SVC with radial kernel
+------------------------------
+precision =0.346241353008
+recall =0.661661661662
+accuracy =0.523524195367
+F-measure =0.454376904003
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with KL Divergence and Predicting using gaussianNB
+------------------------------
+precision =0.722837874014
+recall =0.873990757224
+accuracy =0.768996767591
+F-measure =0.790880119428
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with KL Divergence and Predicting using Logistic Regression
+------------------------------
+precision =0.797847560077
+recall =0.80898263533
+accuracy =0.8015000306
+F-measure =0.803054765482
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with KL Divergence and Predicting using RandomForestClassifier
+------------------------------
+precision =0.707887344116
+recall =0.627996259733
+accuracy =0.68399723807
+F-measure =0.665278000336
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with KL Divergence and Predicting using SVC with linear kernel
+------------------------------
+precision =0.782868885475
+recall =0.806992621364
+accuracy =0.791497525847
+F-measure =0.794700470781
+------------------------------------------------------------
+Using FS1(Lexical Features) + FS2(Simple Ngram Count) + FS3(SWN) + FS4(Aspect Extraction), with KL Divergence and Predicting using SVC with radial kernel
+------------------------------
+precision =0.664662315654
+recall =0.780013546481
+accuracy =0.6930039946
+F-measure =0.717661528471
+------------------------------------------------------------

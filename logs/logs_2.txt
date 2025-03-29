@@ -1,0 +1,244 @@
+Using FS2 (Ngram Count), with No Feature selection and Predicting using gaussianNB
+------------------------------
+precision =0.647359666193
+recall =0.766952581324
+accuracy =0.67450198712
+F-measure =0.701723838979
+------------------------------------------------------------
+Using FS2 (Ngram Count), with No Feature selection and Predicting using Logistic Regression
+------------------------------
+precision =0.737103849936
+recall =0.734980489472
+accuracy =0.736005760537
+F-measure =0.735505084437
+------------------------------------------------------------
+Using FS2 (Ngram Count), with No Feature selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.687097463476
+recall =0.574952197707
+accuracy =0.656498228938
+F-measure =0.625249306263
+------------------------------------------------------------
+Using FS2 (Ngram Count), with No Feature selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.715224369366
+recall =0.710995426564
+accuracy =0.713499749653
+F-measure =0.712822335685
+------------------------------------------------------------
+Using FS2 (Ngram Count), with No Feature selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.565391970549
+recall =0.853997710285
+accuracy =0.598514466756
+F-measure =0.680331998011
+------------------------------------------------------------
+Using FS2 (Ngram Count), with InformationGain Selection and Predicting using gaussianNB
+------------------------------
+precision =0.727580758482
+recall =0.868991746237
+accuracy =0.770497518492
+F-measure =0.791183892659
+------------------------------------------------------------
+Using FS2 (Ngram Count), with InformationGain Selection and Predicting using Logistic Regression
+------------------------------
+precision =0.796486076039
+recall =0.785974597352
+accuracy =0.792494024445
+F-measure =0.791042604899
+------------------------------------------------------------
+Using FS2 (Ngram Count), with InformationGain Selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.717556173314
+recall =0.627981274688
+accuracy =0.690000992048
+F-measure =0.668697019344
+------------------------------------------------------------
+Using FS2 (Ngram Count), with InformationGain Selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.775640957581
+recall =0.773971576367
+accuracy =0.774996769692
+F-measure =0.774522274768
+------------------------------------------------------------
+Using FS2 (Ngram Count), with InformationGain Selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.682727614889
+recall =0.78099057141
+accuracy =0.709008002206
+F-measure =0.728470391628
+------------------------------------------------------------
+Using FS2 (Ngram Count), with GainRatio Selection and Predicting using gaussianNB
+------------------------------
+precision =0.727580758482
+recall =0.868991746237
+accuracy =0.770497518492
+F-measure =0.791183892659
+------------------------------------------------------------
+Using FS2 (Ngram Count), with GainRatio Selection and Predicting using Logistic Regression
+------------------------------
+precision =0.796486076039
+recall =0.785974597352
+accuracy =0.792494024445
+F-measure =0.791042604899
+------------------------------------------------------------
+Using FS2 (Ngram Count), with GainRatio Selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.721681510428
+recall =0.644995294696
+accuracy =0.697997743223
+F-measure =0.681088154987
+------------------------------------------------------------
+Using FS2 (Ngram Count), with GainRatio Selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.775640957581
+recall =0.773971576367
+accuracy =0.774996769692
+F-measure =0.774522274768
+------------------------------------------------------------
+Using FS2 (Ngram Count), with GainRatio Selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.682727614889
+recall =0.78099057141
+accuracy =0.709008002206
+F-measure =0.728470391628
+------------------------------------------------------------
+Using FS2 (Ngram Count), with ChiSquare Selection and Predicting using gaussianNB
+------------------------------
+precision =0.727082721252
+recall =0.866989744235
+accuracy =0.76899526684
+F-measure =0.789733123655
+------------------------------------------------------------
+Using FS2 (Ngram Count), with ChiSquare Selection and Predicting using Logistic Regression
+------------------------------
+precision =0.796783199975
+recall =0.78896261531
+accuracy =0.793996276097
+F-measure =0.792695192339
+------------------------------------------------------------
+Using FS2 (Ngram Count), with ChiSquare Selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.714036368683
+recall =0.631026235817
+accuracy =0.688004242974
+F-measure =0.667818206378
+------------------------------------------------------------
+Using FS2 (Ngram Count), with ChiSquare Selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.783080617078
+recall =0.778979578381
+accuracy =0.781499523345
+F-measure =0.780699265926
+------------------------------------------------------------
+Using FS2 (Ngram Count), with ChiSquare Selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.682162709243
+recall =0.780987574401
+accuracy =0.708509002531
+F-measure =0.728087315637
+------------------------------------------------------------
+Using FS2 (Ngram Count), with Pointwise Mutual information and Predicting using gaussianNB
+------------------------------
+precision =0.682954720693
+recall =0.864987742233
+accuracy =0.730991001404
+F-measure =0.762794899704
+------------------------------------------------------------
+Using FS2 (Ngram Count), with Pointwise Mutual information and Predicting using Logistic Regression
+------------------------------
+precision =0.785797738611
+recall =0.813975652299
+accuracy =0.795994525922
+F-measure =0.79945098287
+------------------------------------------------------------
+Using FS2 (Ngram Count), with Pointwise Mutual information and Predicting using RandomForestClassifier
+------------------------------
+precision =0.750577454925
+recall =0.783975592359
+accuracy =0.761496764964
+F-measure =0.766490670037
+------------------------------------------------------------
+Using FS2 (Ngram Count), with Pointwise Mutual information and Predicting using SVC with linear kernel
+------------------------------
+precision =0.765213036824
+recall =0.785956615298
+accuracy =0.772489014938
+F-measure =0.774958005447
+------------------------------------------------------------
+Using FS2 (Ngram Count), with Pointwise Mutual information and Predicting using SVC with radial kernel
+------------------------------
+precision =0.661598409778
+recall =0.902036767306
+accuracy =0.717490996675
+F-measure =0.762021879299
+------------------------------------------------------------
+Using FS2 (Ngram Count), with Categorial Proportional Difference and Predicting using gaussianNB
+------------------------------
+precision =0.682954720693
+recall =0.864987742233
+accuracy =0.730991001404
+F-measure =0.762794899704
+------------------------------------------------------------
+Using FS2 (Ngram Count), with Categorial Proportional Difference and Predicting using Logistic Regression
+------------------------------
+precision =0.785797738611
+recall =0.813975652299
+accuracy =0.795994525922
+F-measure =0.79945098287
+------------------------------------------------------------
+Using FS2 (Ngram Count), with Categorial Proportional Difference and Predicting using RandomForestClassifier
+------------------------------
+precision =0.74076895284
+recall =0.773027518537
+accuracy =0.751001263538
+F-measure =0.756189102094
+------------------------------------------------------------
+Using FS2 (Ngram Count), with Categorial Proportional Difference and Predicting using SVC with linear kernel
+------------------------------
+precision =0.765213036824
+recall =0.785956615298
+accuracy =0.772489014938
+F-measure =0.774958005447
+------------------------------------------------------------
+Using FS2 (Ngram Count), with Categorial Proportional Difference and Predicting using SVC with radial kernel
+------------------------------
+precision =0.661598409778
+recall =0.902036767306
+accuracy =0.717490996675
+F-measure =0.762021879299
+------------------------------------------------------------
+Using FS2 (Ngram Count), with KL Divergence and Predicting using gaussianNB
+------------------------------
+precision =0.720415994825
+recall =0.862985740231
+accuracy =0.762997515865
+F-measure =0.784442985012
+------------------------------------------------------------
+Using FS2 (Ngram Count), with KL Divergence and Predicting using Logistic Regression
+------------------------------
+precision =0.796450709129
+recall =0.790967614321
+accuracy =0.794496776522
+F-measure =0.793567685219
+------------------------------------------------------------
+Using FS2 (Ngram Count), with KL Divergence and Predicting using RandomForestClassifier
+------------------------------
+precision =0.716521961181
+recall =0.624010237783
+accuracy =0.688503242649
+F-measure =0.666826776044
+------------------------------------------------------------
+Using FS2 (Ngram Count), with KL Divergence and Predicting using SVC with linear kernel
+------------------------------
+precision =0.776429160103
+recall =0.7709805614
+accuracy =0.774500771519
+F-measure =0.773498739669
+------------------------------------------------------------
+Using FS2 (Ngram Count), with KL Divergence and Predicting using SVC with radial kernel
+------------------------------
+precision =0.682641617998
+recall =0.784991578405
+accuracy =0.710009003057
+F-measure =0.730158289933

@@ -1,0 +1,252 @@
+------------------------------------------------------------
+Using FS3(SWN), with No Feature selection and Predicting using gaussianNB
+------------------------------
+precision =0.524234730851
+recall =0.647773522025
+accuracy =0.531987680077
+F-measure =0.535106556675
+------------------------------------------------------------
+Using FS3(SWN), with No Feature selection and Predicting using Logistic Regression
+------------------------------
+precision =0.639123884955
+recall =0.698992405579
+accuracy =0.65199222436
+F-measure =0.667671591126
+------------------------------------------------------------
+Using FS3(SWN), with No Feature selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.630174120944
+recall =0.693004381627
+accuracy =0.643001225711
+F-measure =0.659997728845
+------------------------------------------------------------
+Using FS3(SWN), with No Feature selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.642713525786
+recall =0.698986411561
+accuracy =0.654992975786
+F-measure =0.669548188628
+------------------------------------------------------------
+Using FS3(SWN), with No Feature selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.352879115998
+recall =0.625625625626
+accuracy =0.530531201322
+F-measure =0.449680311891
+------------------------------------------------------------
+Using FS3(SWN), with InformationGain Selection and Predicting using gaussianNB
+------------------------------
+precision =0.651257191282
+recall =0.719764674854
+accuracy =0.604499461351
+F-measure =0.603263330844
+------------------------------------------------------------
+Using FS3(SWN), with InformationGain Selection and Predicting using Logistic Regression
+------------------------------
+precision =0.675631700822
+recall =0.75600750451
+accuracy =0.695994240771
+F-measure =0.713341247021
+------------------------------------------------------------
+Using FS3(SWN), with InformationGain Selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.655686812789
+recall =0.721002439565
+accuracy =0.670995482641
+F-measure =0.686720004942
+------------------------------------------------------------
+Using FS3(SWN), with InformationGain Selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.666273643296
+recall =0.768975562389
+accuracy =0.691992488495
+F-measure =0.713863610157
+------------------------------------------------------------
+Using FS3(SWN), with InformationGain Selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.352086573536
+recall =0.631631631632
+accuracy =0.530030700896
+F-measure =0.450878648233
+------------------------------------------------------------
+Using FS3(SWN), with GainRatio Selection and Predicting using gaussianNB
+------------------------------
+precision =0.651257191282
+recall =0.719764674854
+accuracy =0.604499461351
+F-measure =0.603263330844
+------------------------------------------------------------
+Using FS3(SWN), with GainRatio Selection and Predicting using Logistic Regression
+------------------------------
+precision =0.675631700822
+recall =0.75600750451
+accuracy =0.695994240771
+F-measure =0.713341247021
+------------------------------------------------------------
+Using FS3(SWN), with GainRatio Selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.648037048249
+recall =0.736988485491
+accuracy =0.667488227787
+F-measure =0.689194327184
+------------------------------------------------------------
+Using FS3(SWN), with GainRatio Selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.666273643296
+recall =0.768975562389
+accuracy =0.691992488495
+F-measure =0.713863610157
+------------------------------------------------------------
+Using FS3(SWN), with GainRatio Selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.352086573536
+recall =0.631631631632
+accuracy =0.530030700896
+F-measure =0.450878648233
+------------------------------------------------------------
+Using FS3(SWN), with ChiSquare Selection and Predicting using gaussianNB
+------------------------------
+precision =0.577059326896
+recall =0.914968861077
+accuracy =0.619024478941
+F-measure =0.706755517692
+------------------------------------------------------------
+Using FS3(SWN), with ChiSquare Selection and Predicting using Logistic Regression
+------------------------------
+precision =0.663419154967
+recall =0.733982485479
+accuracy =0.680483229838
+F-measure =0.696877099488
+------------------------------------------------------------
+Using FS3(SWN), with ChiSquare Selection and Predicting using RandomForestClassifier
+------------------------------
+precision =0.642967538343
+recall =0.726010441579
+accuracy =0.66098772526
+F-measure =0.681807259504
+------------------------------------------------------------
+Using FS3(SWN), with ChiSquare Selection and Predicting using SVC with linear kernel
+------------------------------
+precision =0.656491384433
+recall =0.724970479461
+accuracy =0.672991481339
+F-measure =0.688875968709
+------------------------------------------------------------
+Using FS3(SWN), with ChiSquare Selection and Predicting using SVC with radial kernel
+------------------------------
+precision =0.356222291269
+recall =0.616616616617
+accuracy =0.534034704299
+F-measure =0.449309236948
+------------------------------------------------------------
+Using FS3(SWN), with Pointwise Mutual information and Predicting using gaussianNB
+------------------------------
+precision =0.669112730731
+recall =0.696732660805
+accuracy =0.59049370357
+F-measure =0.567655857475
+------------------------------------------------------------
+Using FS3(SWN), with Pointwise Mutual information and Predicting using Logistic Regression
+------------------------------
+precision =0.597739576037
+recall =0.899983816151
+accuracy =0.64699622461
+F-measure =0.718257603192
+------------------------------------------------------------
+Using FS3(SWN), with Pointwise Mutual information and Predicting using RandomForestClassifier
+------------------------------
+precision =0.601779799945
+recall =0.893971816128
+accuracy =0.650997226512
+F-measure =0.719170038386
+------------------------------------------------------------
+Using FS3(SWN), with Pointwise Mutual information and Predicting using SVC with linear kernel
+------------------------------
+precision =0.575748149846
+recall =0.908980837125
+accuracy =0.619493463602
+F-measure =0.704909460402
+------------------------------------------------------------
+Using FS3(SWN), with Pointwise Mutual information and Predicting using SVC with radial kernel
+------------------------------
+precision =0.335366563294
+recall =0.666666666667
+accuracy =0.504004678778
+F-measure =0.446242424242
+------------------------------------------------------------
+Using FS3(SWN), with Categorial Proportional Difference and Predicting using gaussianNB
+------------------------------
+precision =0.669112730731
+recall =0.696732660805
+accuracy =0.59049370357
+F-measure =0.567655857475
+------------------------------------------------------------
+Using FS3(SWN), with Categorial Proportional Difference and Predicting using Logistic Regression
+------------------------------
+precision =0.597739576037
+recall =0.899983816151
+accuracy =0.64699622461
+F-measure =0.718257603192
+------------------------------------------------------------
+Using FS3(SWN), with Categorial Proportional Difference and Predicting using RandomForestClassifier
+------------------------------
+precision =0.604812834225
+recall =0.891981802161
+accuracy =0.654498478363
+F-measure =0.720759414382
+------------------------------------------------------------
+Using FS3(SWN), with Categorial Proportional Difference and Predicting using SVC with linear kernel
+------------------------------
+precision =0.575748149846
+recall =0.908980837125
+accuracy =0.619493463602
+F-measure =0.704909460402
+------------------------------------------------------------
+Using FS3(SWN), with Categorial Proportional Difference and Predicting using SVC with radial kernel
+------------------------------
+precision =0.335366563294
+recall =0.666666666667
+accuracy =0.504004678778
+F-measure =0.446242424242
+------------------------------------------------------------
+Using FS3(SWN), with KL Divergence and Predicting using gaussianNB
+------------------------------
+precision =0.537047720516
+recall =0.949994905085
+accuracy =0.565498697316
+F-measure =0.686165265679
+------------------------------------------------------------
+Using FS3(SWN), with KL Divergence and Predicting using Logistic Regression
+------------------------------
+precision =0.664001178337
+recall =0.735981490473
+accuracy =0.681482729938
+F-measure =0.698104663533
+------------------------------------------------------------
+Using FS3(SWN), with KL Divergence and Predicting using RandomForestClassifier
+------------------------------
+precision =0.637239270375
+recall =0.711022399645
+accuracy =0.652999228213
+F-measure =0.671954798291
+------------------------------------------------------------
+Using FS3(SWN), with KL Divergence and Predicting using SVC with linear kernel
+------------------------------
+precision =0.654787403573
+recall =0.726969484455
+accuracy =0.671992731615
+F-measure =0.68881093002
+------------------------------------------------------------
+Using FS3(SWN), with KL Divergence and Predicting using SVC with radial kernel
+------------------------------
+precision =0.354567833271
+recall =0.622622622623
+accuracy =0.532533203023
+F-measure =0.450007889546
+------------------------------------------------------------
+Using FS4(Aspect Extraction), with No Feature selection and Predicting using gaussianNB
+------------------------------
+precision =0.597616553069
+recall =0.635965306624
+accuracy =0.604006464679
+F-measure =0.615887285423
